@@ -29,4 +29,4 @@ jobs:
           source_repo_path: alexandre-girard-maif/music-discovery-app-template
           upstream_branch: develop # defaults to main
           pr_labels: label1 # defaults to template_sync
-          token: ${{ secrets.GH_PAT }}
+          # token: ${{ secrets.GH_PAT }}
